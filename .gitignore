@@ -1,0 +1,45 @@
+
+# **/Yu_code
+
+# .vscode
+# **/__pycache__
+# **/.ipynb_checkpoints
+# **/*.pdf
+# **/*.bin
+
+
+# # \data
+# code/data/**/*.csv
+# code/data/**/*.xlsx
+# code/**/*.zip
+# code/data/**/*.txt
+# code/data/**/*.sas7bdat
+
+# code/data/dataset*for*Emotion*Detection/*
+
+
+# code/2_Conf_get_features_py/output/*.csv
+
+# code/4_Calls_Description/**/*.csv
+# code/4_Calls_Description/**/*.xlsx
+# code/5_emotion_extraction/limbic_master
+# code/5_emotion_extraction/wn-domains-3.2
+# code/5_emotion_extraction/WNAffect
+# code/5_emotion_extraction/twitter-emotion-recognition-master
+# # code/5_emotion_extraction/vaderSentiment-master
+# code/5_emotion_extraction/emotion_classifier/model_save/*
+
+# code/6_Reg_Analysis_CAR/mid_stage_output
+
+# code/8_Kiera_variables_checking/**/*.xlsx
+# code/8_Kiera_variables_checking/**/*.csv
+# code/8_Kiera_variables_checking/**/*.txt
+
+# Reference/*/*
+
+
+# code/9_Other_exploration/Spacy_testing
+# code/9_Other_exploration/prompt-types
+
+
+*.mp4
